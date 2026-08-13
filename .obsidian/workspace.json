@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica IA/Exercicios/Exercícios 1.md",
+                "file": "Matematica IA/Aulas/Aula 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercícios 1"
+              "title": "Aula 1"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica IA/Exercicios/Exercícios 1.md",
+                "file": "Matematica IA/Aulas/Aula 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica IA/Exercicios/Exercícios 1.md",
+                "file": "Matematica IA/Aulas/Aula 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica IA/Exercicios/Exercícios 1.md",
+                "file": "Matematica IA/Aulas/Aula 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,14 +200,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e4b02396c7082b9",
+  "active": "99a4eedf1cfdc643",
   "lastOpenFiles": [
+    "assets/images/Aula 1-1786648037315.webp",
+    "Matematica IA/Exercicios/Exercícios 1.md",
     "assets/images/Exercícios 1-1786647802236.webp",
     "assets/images/Captura de Tela 2026-08-12 às 21.21.45.png",
     "assets/images",
     "assets",
     "IMG_5948.heic",
-    "Matematica IA/Exercicios/Exercícios 1.md",
     "Sem título.base",
     "Matematica IA/Exercicios",
     "Matematica IA/Aulas/Aula 1.md",
