@@ -1,0 +1,6 @@
+- Conhecendo variaveis (primitiva composta)
+- Alocaco dinamica
+- Estrutua dinamica
+- Estrutura condicional e repeticao
+- Codigo para solucao de problema
+- Depuracao e testes de codigo 

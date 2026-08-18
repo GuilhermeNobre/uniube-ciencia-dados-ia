@@ -11,14 +11,10 @@
             "id": "c7c3da1d167f287b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Industria 4.0/Aulas/Aula 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aula 2"
+              "title": "Nova aba"
             }
           }
         ]
@@ -202,22 +198,27 @@
   },
   "active": "c7c3da1d167f287b",
   "lastOpenFiles": [
-    "ED1/Aulas/1/Pratica1ed1.pdf",
-    "ED1/Aulas/1",
-    "ED1/Aulas/2/Pratica2ed1.pdf",
-    "ED1/Aulas/3/Pratica3ed1.pdf",
-    "ED1/Aulas/3/Node.class",
-    "ED1/Aulas/3/Node.java",
-    "ED1/Aulas/3/Stack.java",
-    "ED1/Aulas/3/Node.jav",
-    "ED1/Aulas/3/Main.java",
-    "ED1/Aulas/2/Node.java",
-    "ED1/Aulas/2/Main.java",
+    "Matematica IA/Aulas/Aula 1.md",
+    "MatematicaIA/Exercicios/Exercícios 1.md",
+    "MatematicaIA/Aulas/Aula 1.md",
+    "MatematicaIA/Exercicios",
+    "MatematicaIA/Aulas",
+    "MatematicaIA",
     "Industria 4.0/Aulas/Aula 2.md",
+    "Industria4.0/Aulas/Aula 2.md",
+    "Industria4.0/Aulas",
+    "Industria4.0",
+    "Laboratorio_programacao/Aula1/main.py",
+    "Laboratorio_programacao/Aula1/Aula 1.md",
+    "Laboratorio_programacao/Aula1",
+    "Laboratorio_programacao",
+    "Laboratorio Programacao/Aula1/Aula 1.md",
+    "laboratorio_programacao/Aula1/main.py",
+    "laboratorio_programacao/Aula1/Aula 1.md",
+    "laboratorio_programacao/Aula1",
     "Sem título.md",
     "assets/images/Aula 1-1786648037315.webp",
     "assets/images/Captura de Tela 2026-08-12 às 21.21.45.png",
-    "Matematica IA/Aulas/Aula 1.md",
     "Matematica IA/Exercicios/Exercícios 1.md",
     "assets/images/Exercícios 1-1786647802236.webp",
     "Matematica IA/Sem título.md"
